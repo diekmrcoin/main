@@ -19,6 +19,10 @@ canvas {
     max-width: 600px !important;
 }
 
+.social-image-github {
+    width: 22px;
+}
+
 .social-image-twitter {
     width: 25px;
 }
