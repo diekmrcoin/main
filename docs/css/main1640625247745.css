@@ -1,0 +1,75 @@
+html {
+    background: rgba(0, 0, 0);
+    color: #cccccc;
+}
+
+div.canvas-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    opacity: 0.5;
+}
+
+canvas {
+    display: block;
+}
+
+.container {
+    max-width: 600px !important;
+}
+
+.social-image-twitter {
+    width: 25px;
+}
+
+.tag > a {
+    color: black;
+    text-shadow: none;
+}
+
+.card {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+p.subtitle strong {
+    color: #f2a900;
+}
+
+h1.title, h2.title {
+    color: #f2a900;
+    letter-spacing: 0.08em;
+    text-shadow: 0 0 2px #f2a900, 0 0 3px #f2a900;
+}
+
+.tag > a {
+    margin-left: 5px;
+}
+
+p, p.subtitle {
+    color: #f2a900;
+    margin-top: 20px !important;
+}
+
+p.title {
+    color: #b9b9b9;
+    font-size: 1.5em;
+    margin-top: 20px !important;
+}
+
+a, a:hover, a:focus, strong > a {
+    color: #f2a900;
+}
+
+p.subtitle > a:hover, p.subtitle > a:focus {
+    color: #f2a900;
+    text-shadow: 0 0 2px #f2a900, 0 0 5px #f2a900;
+}
+
+li {
+    color: #b9b9b9;
+}
+
+li > strong {
+    color: #a67600;
+}
