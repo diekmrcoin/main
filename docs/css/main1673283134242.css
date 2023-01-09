@@ -15,9 +15,7 @@ canvas {
     display: block;
 }
 
-.container {
-    max-width: 900px !important;
-}
+.container {}
 
 .social-image-github {
     width: 22px;
